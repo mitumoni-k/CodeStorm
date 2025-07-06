@@ -105,7 +105,7 @@ export function AppSidebar() {
               <CheckSquare className="h-4 w-4" />
             </div>
             <div className="grid flex-1 text-left text-sm leading-tight">
-              <span className="truncate font-semibold">TaskFlow ERP</span>
+              <span className="truncate font-semibold">TaskAlloc</span>
               <span className="truncate text-xs text-muted-foreground">Skill-Based Allocation</span>
             </div>
           </div>
@@ -159,7 +159,7 @@ export function AppSidebar() {
       </SidebarContent>
 
       <SidebarFooter className="flex-shrink-0 mt-auto">
-        <div className="p-4 text-xs text-muted-foreground border-t">© 2024 TaskFlow ERP</div>
+        <div className="p-4 text-xs text-muted-foreground border-t">© 2024 TaskAlloc</div>
       </SidebarFooter>
       <SidebarRail />
     </Sidebar>

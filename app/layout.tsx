@@ -9,7 +9,7 @@ import { Toaster } from "@/components/ui/toaster"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TaskFlow ERP - Skill-Based Task Allocation",
+  title: "TaskAlloc - Skill-Based Task Allocation",
   description: "AI-powered task allocation system for optimal workforce management",
     generator: 'v0.dev'
 }
